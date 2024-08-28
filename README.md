@@ -65,7 +65,6 @@ Este projeto pode ser compilado para um escript, que é um executável autossufi
 
    ```bash
    escript ./myname get "nome"
-   
    ```
 
 
